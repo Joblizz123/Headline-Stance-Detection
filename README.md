@@ -1,6 +1,6 @@
 # Headline-Stance-Detection
-###   INTRODUCTION
-#### PROJECT DESCRIPTION
+###                                          INTRODUCTION
+####                                      PROJECT DESCRIPTION
 
 The project is based on detecting and predicting the position (stance) of a news headline with respect to its summary. This is to reduce the amount of fake news being circulated. News headlines are supposed to be in synchrony with the news summary, but do to some factors like politics etc this is usually not so. 
 
